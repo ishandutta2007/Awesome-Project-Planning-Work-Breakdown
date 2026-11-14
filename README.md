@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Project-Planning-Work-Breakdown/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Planning-Work-Breakdown?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Project-Planning-Work-Breakdown/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Planning-Work-Breakdown?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Project-Planning-Work-Breakdown/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Project-Planning-Work-Breakdown?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0" /></a>
@@ -77,93 +77,93 @@ Below is an overview of commercial, cloud-hosted Project Planning and Work Break
 
 ## 🟩 Open-Source Software Solutions
 
-Community-driven, self-hosted, and transparent project planning, WBS, and Gantt tools. Ranked in descending order by **GitHub Star Count**.
+Community-driven, self-hosted, and transparent project planning, WBS, and Gantt tools. Ranked in descending order by **GitHub Stars_Count**.
 
-### 🌟 [Makeplane / Plane](https://github.com/makeplane/plane) [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
+### 🌟 [Makeplane / Plane](https://github.com/makeplane/plane) [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)
 - **Tech Stack:** 🐍 Python / Django, ⚡ TypeScript / Next.js, 🐘 PostgreSQL, 🔴 Redis
 - **Software License:** Apache-2.0
 - **Primary Capabilities:** Modern, extensible open-source project management platform positioned as an open alternative to Jira, Linear, and Asana. Features hierarchical issue breakdowns, modules, work cycles, timeline/Gantt views, interactive analytics, and multi-tenant Docker deployment.
 - **Best For:** High-velocity engineering and product teams seeking a responsive, self-hosted issue tracking and task decomposition workspace.
 
-### 🌟 [Mattermost Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
+### 🌟 [Mattermost Focalboard](https://github.com/mattermost-community/focalboard) [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)
 - **Tech Stack:** 🔷 Go (Golang), ⚡ TypeScript / React, 🐘 PostgreSQL / SQLite
 - **Software License:** AGPL-3.0 / Apache-2.0
 - **Primary Capabilities:** Multilingual, self-hosted project management workspace that serves as an alternative to Trello, Notion, and Asana. Supports Kanban boards, table calculations, calendar schedules, and gallery cards with custom schema properties and subtask grouping.
 - **Best For:** Teams wanting a lightweight, privacy-first Notion/Trello alternative deployable standalone or integrated inside Mattermost.
 
-### 🌟 [Super Productivity](https://github.com/super-productivity/super-productivity) [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)
+### 🌟 [Super Productivity](https://github.com/super-productivity/super-productivity) [![GitHub_Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)
 - **Tech Stack:** ⚡ TypeScript / Angular, 💻 Electron (Desktop: Windows, macOS, Linux, Android)
 - **Software License:** MIT
 - **Primary Capabilities:** Advanced personal task manager, work break-down planner, and integrated time tracker. Features nested subtasks with individual time estimates, Pomodoro timers, break reminders, and direct sync connectors for Jira, GitLab, GitHub, and OpenProject.
 - **Best For:** Developers, solopreneurs, and knowledge workers who need rigorous personal task breakdown, time tracking, and zero cloud lock-in.
 
-### 🌟 [OpenProject](https://github.com/opf/openproject) [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+### 🌟 [OpenProject](https://github.com/opf/openproject) [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
 - **Tech Stack:** 💎 Ruby on Rails, ⚡ Angular / TypeScript, 🐘 PostgreSQL
 - **Software License:** GPL-3.0 (Community Edition)
 - **Primary Capabilities:** Enterprise-grade open-source project portfolio and planning suite. Supports deep parent-child work package hierarchies, interactive Gantt timelines with automatic and manual scheduling modes, milestone baselines, cost budgeting, and agile boards.
 - **Best For:** Mid-market to large organizations requiring full project lifecycle management, enterprise governance, and compliant European data privacy.
 
-### 🌟 [Planka](https://github.com/plankanban/planka) [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+### 🌟 [Planka](https://github.com/plankanban/planka) [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
 - **Tech Stack:** ⚡ React, 🟢 Node.js, 🐘 PostgreSQL
 - **Software License:** AGPL-3.0
 - **Primary Capabilities:** Elegant, real-time kanban board tailored for agile teams. Provides nested task breakdowns through checklists, custom card labels, member assignments, file attachments, background custom styling, and SSO integration via OpenID Connect (OIDC).
 - **Best For:** Small to medium engineering squads seeking an uncluttered, real-time visual collaboration tool with subtask progress tracking.
 
-### 🌟 [Leantime](https://github.com/Leantime/leantime) [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
+### 🌟 [Leantime](https://github.com/Leantime/leantime) [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
 - **Tech Stack:** 🐘 PHP, 🐬 MySQL / MariaDB, ⚡ JavaScript
 - **Software License:** AGPL-3.0
 - **Primary Capabilities:** Strategic project management system tailored for non-project managers and designed with cognitive accessibility in mind (supporting ADHD, dyslexia, and neurodiverse teams). Features goal alignment, milestone tracking, Gantt scheduling, SWOT analysis, and idea boards.
 - **Best For:** Cross-functional startups, design agencies, and remote teams who find legacy PM platforms cumbersome and desire cognitive-friendly workflows.
 
-### 🌟 [Kanboard](https://github.com/kanboard/kanboard) [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
+### 🌟 [Kanboard](https://github.com/kanboard/kanboard) [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)
 - **Tech Stack:** 🐘 PHP, 🗄️ SQLite / MySQL / PostgreSQL
 - **Software License:** MIT
 - **Primary Capabilities:** Minimalist, no-nonsense Kanban board focused on reducing cognitive overhead and visualizing Work In Progress (WIP). Supports subtask hierarchies with individual assignees, automatic workflow triggers, Gantt and analytics charts, and a rich plugin ecosystem.
 - **Best For:** System administrators, DevOps teams, and technical project leads seeking an ultra-lightweight, zero-bloat board with simple single-file SQLite setup.
 
-### 🌟 [Frappe Gantt](https://github.com/frappe/gantt) [![GitHub stars](https://img.shields.io/github/stars/frappe/gantt?style=social&color=white)](https://github.com/frappe/gantt/stargazers)
+### 🌟 [Frappe Gantt](https://github.com/frappe/gantt) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/gantt?style=social&color=white)](https://github.com/frappe/gantt/stargazers)
 - **Tech Stack:** ⚡ Vanilla JavaScript, SVG, CSS
 - **Software License:** MIT
 - **Primary Capabilities:** Lightweight, dependency-free interactive Gantt chart library for the modern web. Features draggable task resizing, dependency line rendering, multiple time scales (Quarter Day, Half Day, Day, Week, Month, Year), and smooth SVG rendering.
 - **Best For:** Software engineers looking to embed custom interactive Work Breakdown Structures and Gantt timelines directly into custom web applications.
 
-### 🌟 [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
+### 🌟 [Vikunja](https://github.com/go-vikunja/vikunja) [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)
 - **Tech Stack:** 🔷 Go (Golang), ⚡ TypeScript / Vue.js, 🐘 PostgreSQL / MySQL / SQLite
 - **Software License:** AGPL-3.0
 - **Primary Capabilities:** Highly customizable, modern to-do and work breakdown application. Offers five distinct views (List, Gantt chart, Kanban board, Table, and Calendar), limitless task nesting, recurring tasks, priority matrix tagging, and seamless CalDAV synchronization.
 - **Best For:** Individuals and distributed groups seeking an agile, privacy-centric task organizer with native Gantt planning views.
 
-### 🌟 [Redmine](https://github.com/redmine/redmine) [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
+### 🌟 [Redmine](https://github.com/redmine/redmine) [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)
 - **Tech Stack:** 💎 Ruby on Rails, 🐘 PostgreSQL / MySQL / SQLite
 - **Software License:** GPL-2.0
 - **Primary Capabilities:** Battle-tested, enterprise open-source project management and issue tracker. Features flexible role-based access control (RBAC), multi-project support, subtask nesting, automatic Gantt and calendar views, issue tracking, and version control repository integration (Git/SVN).
 - **Best For:** Established enterprise teams, software shops, and infrastructure engineers wanting an authoritative self-hosted platform with deep audit trails.
 
-### 🌟 [Taskcafe](https://github.com/JordanKnott/taskcafe) [![GitHub stars](https://img.shields.io/github/stars/JordanKnott/taskcafe?style=social&color=white)](https://github.com/JordanKnott/taskcafe/stargazers)
+### 🌟 [Taskcafe](https://github.com/JordanKnott/taskcafe) [![GitHub_Stars](https://img.shields.io/github/stars/JordanKnott/taskcafe?style=social&color=white)](https://github.com/JordanKnott/taskcafe/stargazers)
 - **Tech Stack:** 🔷 Go (Golang), ⚡ React / TypeScript, 🐘 PostgreSQL, GraphQL
 - **Software License:** MIT
 - **Primary Capabilities:** Open-source project management tool with a modern NextGen UI. Features kanban task grouping, checklist breakdowns, personal task lists, and activity logs powered by a clean Go/GraphQL backend.
 - **Best For:** Developers who want an aesthetically pleasing, self-hosted NextGen alternative to Trello with checklist breakdown capabilities.
 
-### 🌟 [Taiga](https://github.com/taigaio/taiga-docker) [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
+### 🌟 [Taiga](https://github.com/taigaio/taiga-docker) [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)
 - **Tech Stack:** 🐍 Python / Django, ⚡ AngularJS, 🐘 PostgreSQL, 🐳 Docker
 - **Software License:** MPL-2.0
 - **Primary Capabilities:** Award-winning agile project management platform designed for cross-functional agile developers and designers. Features Scrum sprints, user story decomposition into modular subtasks, customizable Kanban workflows, and issue tracking.
 - **Best For:** Agile engineering squads practicing Scrum or Kanban who need clear epic and user-story work breakdown decomposition.
 
-### 🌟 [GanttProject](https://github.com/bardsoftware/ganttproject) [![GitHub stars](https://img.shields.io/github/stars/bardsoftware/ganttproject?style=social&color=white)](https://github.com/bardsoftware/ganttproject/stargazers)
+### 🌟 [GanttProject](https://github.com/bardsoftware/ganttproject) [![GitHub_Stars](https://img.shields.io/github/stars/bardsoftware/ganttproject?style=social&color=white)](https://github.com/bardsoftware/ganttproject/stargazers)
 - **Tech Stack:** ☕ Java / Swing Desktop (Windows, macOS, Linux)
 - **Software License:** GPL-3.0
 - **Primary Capabilities:** Free, cross-platform desktop project management application dedicated to Gantt scheduling and Work Breakdown Structures. Features hierarchical task trees, milestone baselines, PERT network generation, resource load calculations, and two-way Microsoft Project / Excel import-export.
 - **Best For:** Solo project managers and engineering leads needing a standalone, offline desktop Gantt scheduling tool compatible with MS Project files.
 
-### 🌟 [LibrePlan](https://github.com/LibrePlan/libreplan) [![GitHub stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
+### 🌟 [LibrePlan](https://github.com/LibrePlan/libreplan) [![GitHub_Stars](https://img.shields.io/github/stars/LibrePlan/libreplan?style=social&color=white)](https://github.com/LibrePlan/libreplan/stargazers)
 - **Tech Stack:** ☕ Java / ZK Framework, 🐘 PostgreSQL
 - **Software License:** AGPL-3.0
 - **Primary Capabilities:** Enterprise-grade collaborative web application built specifically for deep Work Breakdown Structure (WBS) management. Allows nesting tasks in containers and subcontainers, complex resource allocation by competencies, worker holiday calendars, budget tracking vs. actuals, and JIRA connectors.
 - **Best For:** Public sector organizations, municipal agencies, and engineering teams that require formal WBS decomposition and resource allocation without proprietary lock-in.
 
-### 🌟 [ProjectLibre](https://github.com/smartqubit/projectlibre) [![GitHub stars](https://img.shields.io/github/stars/smartqubit/projectlibre?style=social&color=white)](https://github.com/smartqubit/projectlibre/stargazers)
+### 🌟 [ProjectLibre](https://github.com/smartqubit/projectlibre) [![GitHub_Stars](https://img.shields.io/github/stars/smartqubit/projectlibre?style=social&color=white)](https://github.com/smartqubit/projectlibre/stargazers)
 - **Tech Stack:** ☕ Java Desktop (Cross-platform)
 - **Software License:** CPAL 1.0 (Common Public Attribution License)
 - **Primary Capabilities:** Renowned open-source desktop alternative to Microsoft Project with tens of millions of downloads worldwide. Provides multi-level WBS charts, Resource Breakdown Structures (RBS), Earned Value costing, and native `.mpp` file compatibility.
