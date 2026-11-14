@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Project-Planning-Work-Breakdown/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Planning-Work-Breakdown?style=social" alt="GitHub stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Project-Planning-Work-Breakdown/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Project-Planning-Work-Breakdown?style=social" alt="GitHub forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -44,6 +46,8 @@
   - [Gnome Planner](#-gnome-planner)
 - [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -216,6 +220,25 @@ If you know of an outstanding open-source or notable SaaS Project Planning / Wor
    - Core differentiation and WBS / Gantt capabilities
 4. 🚀 Ensure the tool is actively maintained (commits or releases within the past 12 months).
 5. 📬 Submit a Pull Request with a clear description of why the tool stands out.
+
+---
+
+## 💖 Support &amp; Sponsorship
+
+Thank you so much for exploring and using **Awesome Project Planning &amp; Work Breakdown**! 🌟
+
+Maintaining this curated resource and tracking the fast-evolving ecosystem of SaaS platforms and open-source tools takes ongoing research, verification, and care. If you find this directory valuable for your engineering team, project management workflows, or architectural research, please consider supporting the project:
+
+- ⭐ **Star the repository** to boost visibility on GitHub!
+- 🍴 **Fork and contribute** by adding new tools, updating pricing tiers, or sharing feedback.
+- 📢 **Share with peers** on Twitter/X, LinkedIn, Reddit, or developer Discord communities.
+- ☕ **Buy a coffee &amp; sponsor ongoing development**: Support via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every contribution is deeply appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Project-Planning-Work-Breakdown&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Project-Planning-Work-Breakdown&type=date&legend=top-left)
 
 ---
 
